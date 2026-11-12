@@ -1,0 +1,12 @@
+{
+  "name": "London Architecture Atlas",
+  "short_name": "London Atlas",
+  "description": "ロンドンの建築を建築家・年代・用途・様式から探すインタラクティブマップ",
+  "display": "standalone",
+  "background_color": "#f0efe7",
+  "theme_color": "#193a32",
+  "icons": [
+    {"src": "london-architecture-atlas-icon-192.png", "sizes": "192x192", "type": "image/png"},
+    {"src": "london-architecture-atlas-icon-512.png", "sizes": "512x512", "type": "image/png"}
+  ]
+}
